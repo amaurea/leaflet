@@ -1,3 +1,4 @@
+
 L.ColorizableUtils = {
 	colormaps: {
 		"gray":   [[0,0x000000],[1,0xffffff]],
